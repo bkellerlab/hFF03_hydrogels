@@ -1,6 +1,6 @@
 # hFF03_hydrogels
 
-This repository contains supporting information to our publication: 
+This repository contains supporting information to our publications: 
 
 Heinz, F., Proksch, J., Schmidt, R. F., Gradzielski, M., Koksch, B., & Keller, B. G. . 
 *How chromophore labels shape the structure and dynamics of a peptide hydrogel.* 
